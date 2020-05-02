@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args)
 	{
 		
-		int num=40;
+		int num=40¨=P*;
 		
 		if(num<10)	
 		{
