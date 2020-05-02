@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args)
 	{
 		
-		int num=30;
+		int num=40;
 		
 		if(num<10)	
 		{
