@@ -7,7 +7,7 @@ public class Main {
 		
 		int num=40;
 		
-		if(num<10)	
+		if(num<20)	
 		{
 			System.out.println("El numero es menor a 10");		
 		}
